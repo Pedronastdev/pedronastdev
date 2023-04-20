@@ -12,5 +12,5 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  alt="Pedro-pic" height="190" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/1030869682682597398/1094817503663902740/4f40feda2ac9f2b5805d00a578162492.gif">
+  <img align="right"  alt="Pedro-pic" height="190" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/1030869682682597398/1098624170604105738/cat-gif.gif">
 </div>
