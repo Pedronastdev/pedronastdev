@@ -1,8 +1,6 @@
 ### Olá! Eu sou o @Pedro Nascimento
 ##
 - 🔭 Estudante front-end e back-end
-- 🌱 Estudando Javascript/react/node.js
-- 😄 Pronouns:Ele/dele
 ##
  <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
